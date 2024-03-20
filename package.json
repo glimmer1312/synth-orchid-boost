@@ -1,0 +1,31 @@
+{
+  "name": "synth-orchid-boost",
+  "version": "1.0.0",
+  "description": "Supercharge your decentralized ecosystem with Synth Orchid Boost, an advanced package that boosts performance and efficiency and empower your applications with unparalleled speed and optimization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glimmer1312/synth-orchid-boost"
+  },
+  "author": "glimmer1312",
+  "license": "MIT",
+  "dependencies": {
+    "web3-orchid-synthesis": "1.0.0",
+    "synth-orchid-boost": "1.0.0",
+    "redux": "1.0.0",
+    "dotenv": "1.0.0",
+    "react": "1.0.0",
+    "sinon": "1.0.0",
+    "jest": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "sequelize": "1.0.0",
+    "ejs": "1.0.0",
+    "web3": "1.0.0",
+    "mysql": "1.0.0",
+    "chalk": "1.0.0",
+    "solc": "1.0.0"
+  }
+}
